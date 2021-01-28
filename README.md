@@ -6,7 +6,7 @@ This project builds an integrative multiple genomic imaging framework called mul
 The code in this project will reproduce the results in our paper, "Integrating Multiple Genomic Imaging Data for the
 study of Lung Metastasis in Sarcomas using Multi-Dimensional Constrained Joint Non-Negative Matrix Factorization". Our codes were implemented and tested using win7, matlab/2016a.
 
-You can run it by main.mat.  Note: The input data is in brance-master, and the code is in brance-code. You should download two brances from this page.
+You can run it by main.mat.  Note: The input data is in branche-master, and the code is in branche-code. You should download all files from two branches.
 
 Contact Information:
 
