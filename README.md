@@ -8,11 +8,11 @@ study of Lung Metastasis in Sarcomas using Multi-Dimensional Constrained Joint N
 
 You can run it by main.mat
 
-Contact Information
+Contact Information:
 
 Jin Deng, Shanghai Maritime University, Shanghai, China. Email: jindsmu@gmail.com
 
-References
+References:
 
 [1] Shihua Zhang, Qingjiao Li, Juan Liu, and Xianghong Jasmine Zhou. A novel computational framework for simultaneous integration of multiple types of genomic data to identify microrna-gene regulatory modules. Bioinformatics, 27(13):i401–i409, 2011.
 [2] Shihua Zhang, Chun-Chi Liu, Wenyuan Li, Hui Shen, Peter W Laird, and Xianghong Jasmine Zhou. Discovery of multi-dimensional modules by integrative analysis of cancer genomic data. Nucleic acids research, 655 40(19):9379–9391, 2012.
