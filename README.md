@@ -8,7 +8,7 @@ study of Lung Metastasis in Sarcomas using Multi-Dimensional Constrained Joint N
 
 You can run it by main.mat.
 
-The CNV files are the input datasets of MDJNMF method. 
+The .csv files are the input datasets of MDJNMF method. 
 
 Contact Information:
 
